@@ -1,0 +1,22 @@
+h5 {
+	font-color: #880000;
+	font: 30px;
+}
+p.first {
+	color: #600000;
+	font-family: courier new;
+	font-size: 40px;
+	text-align: top;
+	font-style: italic;
+}
+p.second {
+	font-weight: bold;
+	font-size: 18px;
+	font-family: courier new;
+}
+h3 {
+	text-decoration: underline;
+	color: #600000;
+}
+	
+
